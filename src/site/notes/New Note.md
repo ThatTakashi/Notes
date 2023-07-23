@@ -3,3 +3,6 @@
 ---
 
 This is a test note
+[[Test\|Test]]
+[[Directory\|Directory]]
+[[Projects/Inquiry Standard\|Inquiry Standard]]
